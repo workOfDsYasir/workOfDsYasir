@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=workofdsyasir&label=Profile%20views&color=0e75b6&style=flat" alt="workofdsyasir" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=workofdsyasir" alt="workofdsyasir" /></a> </p>
-
 - 🔭 I’m currently working on **Celoxo**
 
 - 🌱 I’m currently learning **React Js, Vue Js**
