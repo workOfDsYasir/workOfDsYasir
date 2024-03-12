@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=workofdsyasir&label=Profile%20views&color=0e75b6&style=flat" alt="workofdsyasir" /> </p>
 
-- 🔭 I’m currently working on **Celoxo**
+- 🔭 I’m currently working on **Merchant Reports 2.0**
 
 - 🌱 I’m currently learning **React Js, Vue Js**
 
-- 👯 I’m looking to collaborate on **Celoxo New Architecture**
+- 👯 I’m looking to collaborate on **Blockchain Project**
 
 - 👨‍💻 All of my projects are available at [https://github.com/workOfYasir](https://github.com/workOfYasir)
 
